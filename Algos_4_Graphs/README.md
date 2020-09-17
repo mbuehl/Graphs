@@ -4,7 +4,7 @@ Demonstrates graph node traversal using BFS, DFS and recursive approach
 
 **Main class:**  Main_GRAPH_BFS_vs_DFS_vs_Recurs
 
-**lib:**     directory stores graph related    
+**lib:**     directory stores graph related libraries  
 
 
 **Sample with node input definition**
